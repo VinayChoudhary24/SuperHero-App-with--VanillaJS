@@ -1,0 +1,174 @@
+/* Background Color for the APP */
+body {
+    background-color: #04151F;
+}
+
+/* App Description */
+.topHeader {
+    margin-top: -5px;
+    height: 4.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 83.8rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    background-color: #A4400D;
+    color: #EFD6AC;
+}
+
+/* Name of the APP */
+.head {
+    font-style: italic;
+    font-weight: bolder;
+    margin-left: 5px;
+}
+
+/* Description of the APP */
+.description {
+    font-style: italic;
+    font-size: 17px;
+    font-weight: 100;
+    margin-right: 15px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* For the input Field */
+#searchInput {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 1.5rem;
+    width: 20rem;
+    border-radius: .5rem;
+    text-align: center;
+    border: none;
+    background-color: whitesmoke;
+    box-shadow:  0 1px 2px 1px;
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+}
+
+/* For Search Button */
+#searchBtn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 545;
+    font-size: 15px;
+    height: 1.5rem;
+    width: 5.5rem;
+    border-radius: .5rem;
+    background-color: #C44900;
+    color: #EFD6AC;
+    margin-left: 4px;
+    text-align: center;
+    border: none;
+    box-shadow:  0 1px 2px 0px;
+}
+
+/* for RandomHero search button */
+#heroBtn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 545;
+    margin: 0.5rem;
+    height: 2rem;
+    width: 9rem;
+    border-radius: .5rem;
+    background-color: #C44900;
+    color: #EFD6AC;
+    border: 1px solid #D8B4A0;
+}
+
+/* heroName */
+#heroName {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5px;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 18px;
+    color: #E9E6D3;
+    display: flex;
+    justify-content: center;
+}
+
+/* heroImage */
+#heroImage {
+    display: flex;
+    justify-content: center;
+}
+
+/* heroDetails */
+.heroDetails {
+    margin-top: 8px;
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+}
+
+/* heroPowerStats */
+#heroPowerStats {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    padding-left: 1rem;
+    background-color: #E77728;
+    border-radius: 1.5rem;
+    margin-right: 6px;
+}
+
+/* heroBiographyStats */
+#heroBiographyStats {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    padding-left: 1.5rem;
+    background-color: #97CC04;
+    border-radius: 1rem;
+}
+
+/* heroConnectionsStats */
+#heroConnectionsStats {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    padding-left: 1rem;
+    background-color: #D81E5B;
+    border-radius: 1.5rem;
+    margin-right: 6px;
+    margin-top: 6px;
+}
+
+/* heroWorkStats */
+#heroWorkStats {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    padding-left: 1.5rem;
+    background-color: #1D8A99;
+    border-radius: 1rem;
+    margin-top: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
